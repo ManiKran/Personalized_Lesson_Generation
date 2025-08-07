@@ -1,0 +1,14 @@
+```json
+{
+  "simplify_language": false,
+  "translate_headers": null,
+  "add_visuals": true,
+  "chunk_instructions": true,
+  "use_timers": true,
+  "embed_interests": true,
+  "interests": ["sports", "video games", "science experiments"],
+  "offer_task_response_choice": true,
+  "include_self_check_questions": true,
+  "provide_movement_breaks": true
+}
+```

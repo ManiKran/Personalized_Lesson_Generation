@@ -1,0 +1,208 @@
+{
+  "udl_version": "3.0",
+  "general": {
+    "purpose": "Universal Design for Learning (UDL) supports learning for all by offering multiple means of engagement, representation, and expression.",
+    "strategies": [
+      "Offer information in text, audio, visuals, and interactive formats.",
+      "Provide scaffolds and self-monitoring opportunities.",
+      "Allow learners to demonstrate understanding in various modalities (oral, written, visual, video)."
+    ],
+    "source": "CAST UDL Guidelines"
+  },
+  "neurodiverse_groups": {
+    "adhd": {
+      "target_group": "Attention and Executive Function challenges (e.g. ADHD)",
+      "udl_checkpoints": ["5.1", "7.3", "9.3"],
+      "strategies": [
+        "Break tasks into short, sequential “chunks” with clear start and stop (“chunking”).",
+        "Use timers, visual countdowns, or progress bars to manage attention.",
+        "Embed student interests or examples to increase motivation.",
+        "Offer task-response choice (e.g., oral vs. written vs. visual).",
+        "Include self-check questions or micro-reflection after each segment."
+      ],
+      "source": "Universal Design for Learning research tailored for ADHD and Executive Function support" 
+    },
+    "dyslexia": {
+      "target_group": "Reading-based learning disability (Dyslexia)",
+      "udl_checkpoints": ["1.1", "2.4", "3.3"],
+      "strategies": [
+        "Provide audio- or screen‑reader versions of text.",
+        "Use large, sans-serif fonts with ample spacing.",
+        "Allow oral responses instead of written when possible.",
+        "Give phonetic or visual cues with vocabulary.",
+        "Focus feedback on content over mechanics."
+      ],
+      "source": "Dyslexia‑specific UDL strategies from dyslexia research"
+    },
+    "autism": {
+      "target_group": "Autism Spectrum Learners",
+      "udl_checkpoints": ["2.5", "4.1", "7.1"],
+      "strategies": [
+        "Use visual schedules, icons, and graphic organizers for structure.",
+        "Pre‑announce transitions and maintain predictable routines.",
+        "Incorporate student-specific interests into learning examples.",
+        "Allow non-verbal or artistic expression (drawing, comics) over extended writing.",
+        "Use social narratives or scripts to explain classroom routines."
+      ],
+      "source": "UDL research applying to autism‑specific learning needs"
+    },
+    "dyscalculia": {
+      "target_group": "Math Learning Disability (Dyscalculia)",
+      "udl_checkpoints": ["1.2", "3.1", "5.4"],
+      "strategies": [
+        "Use the Concrete‑Representational‑Abstract (CRA) sequence.",
+        "Visualize math concepts with manipulatives, number lines, or area models.",
+        "Keep problem steps minimal—break into parts.",
+        "Offer math glossaries and reference sheets.",
+        "Let students explain reasoning orally or visually before writing."
+      ],
+      "source": "Evidence-based CRA research for math difficulties"
+    },
+    "dysgraphia": {
+      "target_group": "Writing Disability (Dysgraphia)",
+      "udl_checkpoints": ["4.1", "5.3", "6.2"],
+      "strategies": [
+        "Permit speech-to-text or typing instead of handwriting.",
+        "Provide graphic organizers or mind‑maps before writing.",
+        "Use wide‑ruled or raised‑line paper and ergonomic writing tools.",
+        "Give clear, step‑by‑step rubrics and writing checkpoints.",
+        "Allow students to “think storm” or present ideas orally/visually first."
+      ],
+      "source": "UDL-aligned strategies from dysgraphia-specific pedagogy"
+    },
+    "executive_function": {
+      "target_group": "Executive Function / Self‑Regulation Weaknesses",
+      "udl_checkpoints": ["7.2", "8.2", "9.1"],
+      "strategies": [
+        "Offer checklists and planning templates (e.g. project maps, calendars).",
+        "Provide guided goal‑setting and progress‑tracking tools.",
+        "Embed prompts to ‘stop and think’ before moving on.",
+        "Model task breakdown and process explicitly before independent work.",
+        "Include regular self-reflection or peer-feedback pauses."
+      ],
+      "source": "Instructional design using UDL principles to build executive functioning"
+    }
+  },
+  "multilingual": {
+    "spanish": {
+      "home_speakers_millions": 42.03,
+      "share_of_non_English_home_speakers_pct": 60,
+      "strategies": [
+        "Present vocabulary side‑by‑side in Spanish and English.",
+        "Use bilingual audio support or translations.",
+        "Allow oral expansion in Spanish.",
+        "Provide cognate awareness activities (e.g. hospital, hospital).",
+        "Include culturally relevant examples and background."
+      ],
+      "source": "American Community Survey: top languages spoken at home"
+    },
+    "tagalog": {
+      "home_speakers_millions": 1.71,
+      "share_of_non_English_home_speakers_pct": 2.4,
+      "strategies": [
+        "Offer key terms with Tagalog labels or audio.",
+        "Use pictures and visuals to support meaning.",
+        "Allow students to compare Tagalog to English cognates.",
+        "Provide bilingual peer or paraprofessional support.",
+        "Include Filipino cultural contexts as memory hooks."
+      ],
+      "source": "American Community Survey: Tagalog proportion of U.S. home‑language speakers"
+    },
+    "chinese": {
+      "home_speakers_millions": 3.40,
+      "share_of_non_English_home_speakers_pct": 4.8,
+      "strategies": [
+        "Include character-to-simplified/English translations.",
+        "Offer dual-language glossaries.",
+        "Allow Mandarin or Cantonese audio support.",
+        "Use visuals consistently, avoiding language dependence.",
+        "Encourage drawing or mandala-style responses before writing."
+      ],
+      "source": "American Community Survey home‑language data"
+    },
+    "vietnamese": {
+      "home_speakers_millions": 1.52,
+      "share_of_non_English_home_speakers_pct": 2.1,
+      "strategies": [
+        "Present simple sentence frames with parallel Vietnamese explanation.",
+        "Provide audio reading with both languages.",
+        "Allow bilingual peer discussion.",
+        "Use visuals for abstract concepts.",
+        "Embed Vietnamese cultural themes where relevant."
+      ],
+      "source": "ACS data on home‑language usage"
+    },
+    "arabic": {
+      "home_speakers_millions": 1.39,
+      "share_of_non_English_home_speakers_pct": 1.9,
+      "strategies": [
+        "Provide Arabic text-aligned banner glossaries of key words.",
+        "Use diacritical guide for word pronunciation.",
+        "Allow right‑to‑left script supports in documents.",
+        "Use visuals for abstract or unfamiliar concepts.",
+        "Include Arabic‑language audio for listening exercises."
+      ],
+      "source": "American Community Survey 2020 table of home languages"
+    },
+    "french": {
+      "home_speakers_millions": 1.18,
+      "share_of_non_English_home_speakers_pct": 1.7,
+      "strategies": [
+        "Use simple French/English bilingual glossaries.",
+        "Allow oral response in French.",
+        "Embed French-language cognates.",
+        "Provide visual organizers and sentence frames in both languages.",
+        "Offer audio recordings or dual-language subtitles."
+      ],
+      "source": "ACS summary of top non-English languages"
+    },
+    "korean": {
+      "home_speakers_millions": 1.07,
+      "share_of_non_English_home_speakers_pct": 1.5,
+      "strategies": [
+        "Provide key vocabulary in Hangul with English equivalent.",
+        "Use consistent icons to illustrate word meaning.",
+        "Allow video or oral explanation in Korean.",
+        "Embed culturally resonant stories or references.",
+        "Offer bilingual peer glossaries or voice memo tool."
+      ],
+      "source": "American Community Survey home‑language numbers"
+    },
+    "russian": {
+      "home_speakers_millions": 1.04,
+      "share_of_non_English_home_speakers_pct": 1.0,
+      "strategies": [
+        "Label charts or labels in both Cyrillic and English.",
+        "Deliver audio or vocabulary lists in Russian.",
+        "Encourage transliteration-based cognate connections.",
+        "Allow bilingual discussion or oral note-taking.",
+        "Embed Russian cultural touchstones when context fits."
+      ],
+      "source": "ACS data on home languages"
+    },
+    "portuguese": {
+      "home_speakers_millions": 0.94,
+      "share_of_non_English_home_speakers_pct": 0.8,
+      "strategies": [
+        "Offer bilingual (Portuguese‑English) flashcards.",
+        "Use familiar cognates (e.g. “animal”) as anchor words.",
+        "Allow responses orally or in Portuguese writing.",
+        "Provide visuals and simplified sentence structures.",
+        "Include cultural references (e.g. Brazil or Portugal) when relevant."
+      ],
+      "source": "American Community Survey table"
+    },
+    "haitian_creole": {
+      "home_speakers_millions": 0.90,
+      "share_of_non_English_home_speakers_pct": 0.7,
+      "strategies": [
+        "Provide Haitian‑Creole glossaries and audio pronunciation.",
+        "Use cognate spotting (e.g. “doctor/doctè”).",
+        "Allow bilingual oral reporting.",
+        "Use visuals for abstract topics.",
+        "Include Creole cultural touchpoints (e.g. familiar foods, music)."
+      ],
+      "source": "ACS language‑usage statistics"
+    }
+  }
+}

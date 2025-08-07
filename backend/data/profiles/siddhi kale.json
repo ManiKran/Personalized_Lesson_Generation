@@ -1,0 +1,25 @@
+{
+  "name": "siddhi kale",
+  "age": 12,
+  "languages": {
+    "native": "Spanish",
+    "learning": "English"
+  },
+  "disability": "ADHD",
+  "english_reading_level": "Grade 5",
+  "native_reading_level": "Grade 7",
+  "math_level": "Grade 5",
+  "strengths": [
+    "creativity",
+    "verbal communication",
+    "curiosity"
+  ],
+  "needs": [
+    "visuals"
+  ],
+  "interests": [
+    "badminton",
+    "Social Media",
+    "Art"
+  ]
+}

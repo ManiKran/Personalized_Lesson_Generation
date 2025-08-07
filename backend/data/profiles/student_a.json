@@ -1,0 +1,29 @@
+{
+  "name": "student_a",
+  "age": 14,
+  "languages": {
+    "native": "spanish",
+    "learning": "English"
+  },
+  "disability": "Dyslexia",
+  "english_reading_level": "Grade 4",
+  "native_reading_level": "Grade 7",
+  "math_level": "Grade 5",
+  "strengths": [
+    "verbal expression",
+    "creativity",
+    "social learning"
+  ],
+  "needs": [
+    "chunked instructions",
+    "simplified language",
+    "visuals",
+    "translated keywords",
+    "reduced distractions"
+  ],
+  "interests": [
+    "table tennis",
+    "video games",
+    "YouTube"
+  ]
+}

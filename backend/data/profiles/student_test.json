@@ -1,0 +1,25 @@
+{
+  "name": "student_test",
+  "age": 12,
+  "languages": {
+    "native": "English",
+    "learning": "None"
+  },
+  "disability": "ADHD",
+  "english_reading_level": "grade 6",
+  "native_reading_level": "Grade 6",
+  "math_level": "grade 5",
+  "strengths": [
+    "curiosity",
+    "energy",
+    "verbal communication"
+  ],
+  "needs": [
+    ""
+  ],
+  "interests": [
+    "soccer",
+    "video games",
+    "YouTube"
+  ]
+}

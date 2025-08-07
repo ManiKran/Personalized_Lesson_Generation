@@ -1,0 +1,9 @@
+```json
+{
+  "simplify_language": true,
+  "translate_headers": "spanish",
+  "add_visuals": true,
+  "chunk_instructions": true,
+  "interests": ["table tennis", "video games", "YouTube"]
+}
+```

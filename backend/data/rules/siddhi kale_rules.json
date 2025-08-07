@@ -1,0 +1,13 @@
+```json
+{
+  "simplify_language": true,
+  "translate_headers": "Spanish",
+  "add_visuals": true,
+  "chunk_instructions": true,
+  "use_timers": true,
+  "interests": ["badminton", "Social Media", "Art"],
+  "offer_task_response_choice": true,
+  "self_check_questions": true,
+  "embed_student_interests": true
+}
+```

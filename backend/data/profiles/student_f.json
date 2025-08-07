@@ -1,0 +1,28 @@
+{
+  "name": "student_f",
+  "age": 14,
+  "languages": {
+    "native": "English",
+    "learning": "None"
+  },
+  "disability": "ADHD",
+  "english_reading_level": "Grade 7",
+  "native_reading_level": "Grade 7",
+  "math_level": "Grade 6",
+  "strengths": [
+    "quick thinking",
+    "verbal skills",
+    "creativity"
+  ],
+  "needs": [
+    "short",
+    "engaging tasks",
+    "reduced distractions",
+    "movement breaks"
+  ],
+  "interests": [
+    "sports",
+    "video games",
+    "science experiments"
+  ]
+}
