@@ -25,6 +25,7 @@ git clone https://github.com/ManiKran/Personalized_Lesson_Generation.git
 cd Personalized_Lesson_Generation
 ```
 
+### 2. Start the Backend
 ```bash
 2. Start the Backend
 cd backend
@@ -34,8 +35,10 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-# Make sure to create the .env file and put your OPEN AI API Key.
+#### Note: Make sure to create the .env file and put your OPEN AI API Key.
 
+
+### 3. Start the Frontend
 ```bash
 cd ../frontend
 npm install
